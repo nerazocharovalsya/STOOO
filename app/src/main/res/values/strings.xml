@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">STOOO</string>
+    <string name="title_car">Машина</string>
+    <string name="title_sto">СТО</string>
+    <string name="title_applications">Заявки</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
